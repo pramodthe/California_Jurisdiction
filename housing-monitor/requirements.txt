@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langgraph
+qdrant-client
+firecrawl-py
+python-dotenv
+pandas
+pydantic
+tenacity
+tiktoken
+unstructured
+markdown
